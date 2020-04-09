@@ -1,0 +1,8 @@
+cfduid = "dcefe27d2f415b2aafb08840bff6284eb1586416165"
+
+PHPSESSID = "1vvbq7sjt893q1r5o4c7aelggv"
+
+ga = "GA1.2.1869594480.1586416168"
+
+
+gid = "GA1.2.1694505663.1586416168"
